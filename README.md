@@ -12,7 +12,7 @@
 #### | Tecnologias favoritas: 
 <div style="margin-top: 5%;"> 
 
-![My Skills](https://skills.thijs.gg/icons?i=html,css,js,vue,py)
+![My Skills](https://skills.thijs.gg/icons?i=html,css,js,vue,php,react,py)
 
 </div>
 
